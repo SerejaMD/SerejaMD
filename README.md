@@ -7,9 +7,9 @@
 </h1>
 
 <div id="header">
-    <img id="img_1" src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" width="326" height="450" align="left"/>
-    <img id="img_2" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" width="325" height="450" align="center"/>
-    <img id="img_3" src="https://media.giphy.com/media/bB3FrjpQ3w8ms/giphy.gif" width="327" height="450" align="right"/>
+    <img id="img_1" src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" width="320" height="450" align="left"/>
+    <img id="img_2" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" width="320" height="450" align="center"/>
+    <img id="img_3" src="https://media.giphy.com/media/bB3FrjpQ3w8ms/giphy.gif" width="320" height="450" align="right"/>
 </div>
 
 ---

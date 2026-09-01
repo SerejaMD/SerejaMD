@@ -43,7 +43,7 @@
 </div>
 
 ---
-
+<!-- Здесь будет баннер для акции -->
 <div>
     <h1>Несколько моих работ 
         <img src="https://media.giphy.com/media/xT9DPvFR1w7gdhurvi/giphy.gif" width="100" height="100" align="center"/>

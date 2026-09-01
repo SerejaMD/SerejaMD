@@ -16,7 +16,7 @@
 
 
 <!--Немного обо мне:-->
-:technologist: A little bit about me: <img src="https://media.giphy.com/media/3o72EZplI5RBdJU17q/giphy.gif" width="30">
+:technologist: zzz: <img src="https://media.giphy.com/media/3o72EZplI5RBdJU17q/giphy.gif" width="30">
 <!--Начинающий ИТ специалист-->
 - :battery:zzz.
 <!--Изучаю новое-->

@@ -18,11 +18,11 @@
 <!--Немного обо мне:-->
 :technologist: A little bit about me: <img src="https://media.giphy.com/media/3o72EZplI5RBdJU17q/giphy.gif" width="30">
 <!--Начинающий ИТ специалист-->
-- :battery:Beginning IT specialist.
+- :battery:zzz.
 <!--Изучаю новое-->
-- :bulb: I'm learning new things.
+- :bulb: zzz.
 <!--Открыт новым идеям-->
-- :basecamp: Open to new ideas.
+- :basecamp: zzz.
     
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;

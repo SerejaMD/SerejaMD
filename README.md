@@ -43,7 +43,7 @@
 </div>
 
 ---
-<!-- Здесь будет баннер для акции -->
+<!--  
 <div>
     <h1>Несколько моих работ 
         <img src="https://media.giphy.com/media/xT9DPvFR1w7gdhurvi/giphy.gif" width="100" height="100" align="center"/>
@@ -55,7 +55,7 @@
 <img src="https://github.com/SerejaMD/SerejaMD-/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.png" width="300" height="350" align="left"/>
 <img src="https://github.com/SerejaMD/SerejaMD-/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4.PNG" width="300" height="350" align="left"/>
   
-
+-->
 
 
 

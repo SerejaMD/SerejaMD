@@ -14,7 +14,7 @@
 
 ---
 
-
+<!--
 <!--Немного обо мне:-->
 :technologist: zzz: <img src="https://media.giphy.com/media/3o72EZplI5RBdJU17q/giphy.gif" width="30">
 <!--Начинающий ИТ специалист-->
@@ -23,7 +23,7 @@
 - :bulb: zzz.
 <!--Открыт новым идеям-->
 - :basecamp: zzz.
-    
+-->    
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
